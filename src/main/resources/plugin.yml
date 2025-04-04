@@ -1,0 +1,4 @@
+name: FixSfBug
+version: '1.0'
+main: core.sg.fixSfBug.FixSfBug
+api-version: '1.20'
